@@ -4,3 +4,5 @@ aad 02
 add 03 
 add 04
 add 05
+add 6
+add 7
